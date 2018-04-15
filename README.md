@@ -1,1 +1,7 @@
-# whack-a-mole
+# WHACK-A-MOLE
+
+#created with: 
+*CSS
+*HTML
+*javascript
+*jQuery
