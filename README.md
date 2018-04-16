@@ -8,6 +8,7 @@
 
 + CSS/HTML
 + jQuery
++ Google Fonts
 
 
 
